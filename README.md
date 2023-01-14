@@ -1,4 +1,6 @@
 # PasswordManager-Python
+The Password Manager is a user-friendly tool built using the Tkinter library in Python. It allows users to securely store and manage their passwords, making it easy to access them whenever needed. The program has a unique feature where it initially appears as a calculator, providing an added layer of security to the user's stored passwords. With this tool, users can easily save and access their passwords with ease, ensuring their online security and privacy.
+
 Few things is required before run it...
 First is python with pip & internet...
 Another is your time...😀
